@@ -1,0 +1,40 @@
+
+    tr {
+      font-size:14px;
+    }
+.text-bold{
+    font-weight: bold;
+}
+.top-product-row{
+    font-weight: bold;
+    background-color: #FFF200;
+}
+.hide{
+    display: none;
+}
+
+ .no-border-top{
+     border-top: 0 !important;
+ }
+ 
+ .btn{
+     margin: 1px;
+ }
+ 
+ .current-status{
+    font-weight: bold;
+   
+ }
+ 
+ .btn-status{
+  background-color: #4E9B39;   
+ }
+ 
+ .link-open-rows{
+     color: #4E9B39;
+ }
+ 
+ .canceled-order{
+     background-color: #ff4d4d;
+     color: white !important;
+ }

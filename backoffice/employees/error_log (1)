@@ -1,0 +1,1 @@
+[05-Aug-2019 16:11:12 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/talisraelba/public_html/backoffice/employees/fetch_data.php on line 23

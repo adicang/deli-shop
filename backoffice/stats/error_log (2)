@@ -1,0 +1,5 @@
+[21-Aug-2019 12:23:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/backoffice/stats/index.php on line 105
+[21-Aug-2019 12:24:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/backoffice/stats/index.php on line 105
+[21-Aug-2019 12:25:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/backoffice/stats/index.php on line 105
+[21-Aug-2019 12:27:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/backoffice/stats/index.php on line 105
+[25-Aug-2019 14:56:20 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ',' or ';' in /home/talisraelba/public_html/backoffice/stats/index.php on line 184
