@@ -1,0 +1,20 @@
+[07-Aug-2019 13:59:01 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/talisraelba/public_html/includes/include/regis.php on line 2
+[07-Aug-2019 13:59:01 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/talisraelba/public_html/includes/include/regis.php on line 2
+[07-Aug-2019 13:59:01 UTC] PHP Fatal error:  require(): Failed opening required 'init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/talisraelba/public_html/includes/include/regis.php on line 2
+[07-Aug-2019 14:01:16 UTC] PHP Warning:  require_once(session.php): failed to open stream: No such file or directory in /home/talisraelba/public_html/includes/include/init.php on line 6
+[07-Aug-2019 14:01:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'session.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/talisraelba/public_html/includes/include/init.php on line 6
+[07-Aug-2019 14:04:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/talisraelba/public_html/includes/include/regis.php on line 11
+[09-Aug-2019 10:48:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/talisraelba/public_html/includes/include/regisUpdate.php on line 55
+[09-Aug-2019 10:50:27 UTC] PHP Fatal error:  Call to undefined function createrandomconfirmationcode() in /home/talisraelba/public_html/includes/include/regisUpdate.php on line 52
+[12-Aug-2019 20:16:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/talisraelba/public_html/includes/include/add_product_to_cart.php on line 29
+[12-Aug-2019 22:08:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/includes/include/change_product_amount.php on line 19
+[12-Aug-2019 22:08:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/includes/include/change_product_amount.php on line 23
+[20-Aug-2019 07:30:21 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 16
+[20-Aug-2019 07:32:28 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 16
+[20-Aug-2019 07:32:41 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 16
+[20-Aug-2019 07:33:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 17
+[20-Aug-2019 07:37:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 18
+[20-Aug-2019 07:39:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 18
+[20-Aug-2019 07:41:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 18
+[20-Aug-2019 07:57:51 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, object given in /home/talisraelba/public_html/includes/include/pay_for_order.php on line 17
+[25-Aug-2019 14:11:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/talisraelba/public_html/includes/include/add_product_to_cart.php on line 22
